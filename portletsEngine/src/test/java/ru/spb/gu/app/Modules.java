@@ -1,0 +1,16 @@
+package ru.spb.gu.app;
+
+public enum Modules {
+    ARMDO,
+    ARMSMEVREQUEST,
+    ARMSMEVRESPONSE,
+    ARMIOGVEMPLOYEE,
+    ARMGISGMP,
+    TICKETSIOGV,
+    ZAGSMARRIAGE,
+    ZAGSDIVORCE,
+    UNLOADER,
+    OVERDUEREQUESTS,
+    UNLOADSLOADER,
+    TECHSUPPORT
+}
